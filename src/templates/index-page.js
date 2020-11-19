@@ -18,8 +18,6 @@ export const IndexPageTemplate = ({
   <div>
     <p>Hello Gatsby!</p>
     <Link to="/account">Go to your account</Link>
-  </div>
-  <div>
     <div
       className="full-width-image margin-top-0"
       style={{
